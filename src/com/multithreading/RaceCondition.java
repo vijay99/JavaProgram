@@ -9,7 +9,7 @@ public class RaceCondition {
         ExecutorService executorService = Executors.newFixedThreadPool(10);
         Counter counter = new Counter();
 
-        for (int i = 0; i < 1000; i++) {
+        for (int i = 0; i < 10000; i++) {
             executorService.submit(() -> counter.increment());
         }
         executorService.shutdown();
@@ -20,7 +20,7 @@ public class RaceCondition {
 }
 
 class Counter {
-    int count = 0;
+     int  count = 0;
 
     public synchronized void increment() {
         count = count + 1;
