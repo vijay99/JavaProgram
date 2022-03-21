@@ -1,0 +1,6 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(˜»ÇÏ
+ƒ
+java:S41654"hRemove this useless assignment; "datasource" already holds the assigned value along all execution paths.(±Âÿµýÿÿÿÿ
+ƒ
+java:S4165/"hRemove this useless assignment; "datasource" already holds the assigned value along all execution paths.(ÌÂÇ˜üÿÿÿÿ

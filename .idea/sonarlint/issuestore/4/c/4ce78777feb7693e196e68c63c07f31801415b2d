@@ -1,0 +1,19 @@
+
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(‹É›Ÿ8ÁĞŞ°/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(°÷µ8ÁĞŞ°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘÷îÖøÿÿÿÿ8¯˜ÏŞ°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÁÑ¶üÿÿÿÿ8¯˜ÏŞ°/
+]
+java:S1854	";Remove this useless assignment to local variable "derived".(ú¿ò™úÿÿÿÿ8’àÔŞ°/
+F
+java:S1172")Remove this unused method parameter "s1".(Á¡‹…8¯˜ÏŞ°/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤Àùÿÿÿÿ8¯˜ÏŞ°/
+N
+java:S1481	",Remove this unused "derived" local variable.(ú¿ò™úÿÿÿÿ8’àÔŞ°/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¯˜ÏŞ°/
+{
+java:S1171&"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ÁĞŞ°/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ò•÷Ò8ëÓæŞ°/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Áèªûşÿÿÿÿ8ÁĞŞ°/
+]	java:S125"<This block of commented-out lines of code should be removed.(ŸşÎàşÿÿÿÿ8’àÔŞ°/

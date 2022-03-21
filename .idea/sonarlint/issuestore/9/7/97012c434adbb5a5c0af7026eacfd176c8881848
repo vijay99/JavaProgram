@@ -1,0 +1,17 @@
+
+`
+java:S1854">Remove this useless assignment to local variable "isBalanced".(íı¬Èüÿÿÿÿ8¬Ó•«¯/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŞíÈ‘
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(äŒ‡Àùÿÿÿÿ8²úª¯/
+`
+java:S1854 ">Remove this useless assignment to local variable "isBalanced".(íı¬Èüÿÿÿÿ8¬Ó•«¯/
+o
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Çµí‘8²úª¯/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ÇæöÚ8¡•ÿª¯/
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ö³îïıÿÿÿÿ8¬Ó•«¯/
+`
+java:S1854">Remove this useless assignment to local variable "isBalanced".(íı¬Èüÿÿÿÿ8¬Ó•«¯/
+L
+java:S1481"/Remove this unused "isBalanced" local variable.(ûÓæ8¬Ó•«¯/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(É‡ìüûÿÿÿÿ8ÊÍşª¯/

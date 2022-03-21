@@ -1,0 +1,7 @@
+
+[
+java:S4973"9Use the "equals" method if value comparison was intended.(«η¤Βÿÿÿÿÿ8®εθΏά/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«η¤Βÿÿÿÿÿ8®εθΏά/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Φ³ϊωÿÿÿÿ8•µιΏά/
+=
+java:S2129	" Remove this "String" constructor(•ς”Φ8®εθΏά/

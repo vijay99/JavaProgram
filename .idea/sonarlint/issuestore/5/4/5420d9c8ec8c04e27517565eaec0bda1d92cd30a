@@ -1,0 +1,10 @@
+
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ÖÒºéşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ËëÎÏ
+I
+java:S1128
+".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß‰€şÿÿÿÿ

@@ -1,0 +1,21 @@
+
+E
+java:S1481"(Remove this unused "sc2" local variable.(™ˆÈÀ8½ÃÙëİ/
+X
+java:S1854"6Remove this useless assignment to local variable "sc".(‚¦ªûÿÿÿÿ8½ÃÙëİ/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8½ÃÙëİ/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ø°±d8½ÃÙëİ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£Àà°8½ÃÙëİ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¿Ÿµıÿÿÿÿ8½ÃÙëİ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”®—Á8½ÃÙëİ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(•¸Î8½ÃÙëİ/
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8½ÃÙëİ/
+E
+java:S1172"(Remove this unused method parameter "c".(«şÕô8½ÃÙëİ/
+I
+java:S1481"'Remove this unused "sc" local variable.(‚¦ªûÿÿÿÿ8½ÃÙëİ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÏüĞÖüÿÿÿÿ8½ÃÙëİ/
+T
+java:S1854"7Remove this useless assignment to local variable "sc2".(™ˆÈÀ8½ÃÙëİ/

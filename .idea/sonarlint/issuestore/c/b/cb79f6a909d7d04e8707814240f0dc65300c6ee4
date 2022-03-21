@@ -1,0 +1,23 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "bankAccount".(•Èúá
+V	java:S125"<This block of commented-out lines of code should be removed.(ÇÓŸ“ùÿÿÿÿ
+F
+java:S1481"0Remove this unused "bankAccount" local variable.(•Èúá
+Q	java:S125"<This block of commented-out lines of code should be removed.(µÏÅ•
+C
+java:S1172l"-Remove this unused method parameter "branch".(ÙØ±’
+J
+java:S1656m"/Remove or correct this useless self-assignment.(Ÿ³…ÿùÿÿÿÿ
+M
+java:S1068‚"1Remove this unused "accountNumber" private field.(™Ê™Îüÿÿÿÿ
+@
+java:S1068ƒ")Remove this unused "owner" private field.(¿˜‰á
+G
+java:S1068„"+Remove this unused "balance" private field.(Õ¢’£ÿÿÿÿÿ
+L
+java:S1068…"0Remove this unused "interestRate" private field.(Õğóùÿÿÿÿ
+@
+java:S1068†"*Remove this unused "branch" private field.(„ë_
+…
+java:S4165m"jRemove this useless assignment; "interestRate" already holds the assigned value along all execution paths.(Ÿ³…ÿùÿÿÿÿ

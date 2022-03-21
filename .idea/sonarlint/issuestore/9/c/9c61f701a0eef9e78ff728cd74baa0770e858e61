@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğéÇßùÿÿÿÿ8 ßÅÈ—/
+>
+java:S1659"!Declare "end" on a separate line.(›ü8¢ÚÏÈ—/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ç¡±½ûÿÿÿÿ8ÀĞÃÈ—/
+R
+java:S1128"6Remove this unused import 'javax.crypto.spec.PSource'.(•¿Æ8üÂÈ—/
+Q
+java:S1128"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Â°ÌÈ—/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€ù¨Š8‰³ÊÈ—/

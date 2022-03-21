@@ -1,0 +1,20 @@
+
+5
+java:S1659	"Declare "a" on a separate line.(Õò£ü
+S
+java:S1197"8Move the array designator from the variable to the type.(ÚæÂýÿÿÿÿ
+K
+java:S1751"5Remove this "break" statement or make it conditional.(›ûä·
+>
+java:S1125"(Remove the literal "true" boolean value.(ºÍ¯¸
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Ô„é‘ÿÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(¯®œ×ûÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¡þÏÖøÿÿÿÿ
+5
+java:S1659	"Declare "x" on a separate line.(Õò£ü
+½
+java:S1598"§This file "FindAllNonRepeatingChar.java" should be located in "com/triky/interview/question" directory, not in "/home/kumar/IdeaProjects/JavaProgram/src/com/practice".(¯ä‚-
+S
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ

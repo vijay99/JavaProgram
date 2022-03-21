@@ -1,0 +1,20 @@
+
+S
+java:S1854"=Remove this useless assignment to local variable "myMapping".(õ˜Í¦
+W
+java:S1854
+"<Remove this useless assignment to local variable "evenList".(Á€ñëÿÿÿÿÿ
+H
+java:S1481
+"-Remove this unused "evenList" local variable.(Á€ñëÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(õÆ¨§
+D
+java:S1481".Remove this unused "myMapping" local variable.(õ˜Í¦
+V	java:S125"<This block of commented-out lines of code should be removed.(Ï¥øêùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(üÎ†÷
+Q	java:S125"<This block of commented-out lines of code should be removed.(Éßð
+S
+java:S1612"=Replace this lambda with method reference 'Sweet::getRating'.(°œ©î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§Ê°üÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Æà‰ ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€–¬òúÿÿÿÿ

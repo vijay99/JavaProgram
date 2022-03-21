@@ -1,0 +1,8 @@
+
+]
+java:S1854"@Remove this useless assignment to local variable "emp2DeptList".(»ƒ¸8ïÌ‰Ú®/
+N
+java:S1481"1Remove this unused "emp2DeptList" local variable.(»ƒ¸8Æ¯¨Ú®/
+N
+java:S1612",Replace this lambda with a method reference.(”êñûÿÿÿÿ8ğ¯Ú®/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Óü•ƒøÿÿÿÿ8¨°Ú®/

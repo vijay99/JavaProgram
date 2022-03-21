@@ -1,0 +1,14 @@
+
+6
+java:S2178"Correct this "&" to "&&".(çÂñ“8ø·ñŸ­/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Öå–48Ÿ ­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ü’¥şıÿÿÿÿ8‰Æ¿Ÿ­/
+U
+java:S1197
+"8Move the array designator from the variable to the type.(­èé€8‹øá´¤/
+5
+java:S2178"Correct this "&" to "&&".(Õ»‚Q8ıÖîŸ­/
+A
+java:S1659"Declare "e" on a separate line.(à‘÷üşÿÿÿÿ8«Ø³Ÿ­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥µÿ“ûÿÿÿÿ8š•  ­/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(º±ğ¬8ŠÁŸ­/

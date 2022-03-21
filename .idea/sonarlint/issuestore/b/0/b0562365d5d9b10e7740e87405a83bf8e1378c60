@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ïä•ûÿÿÿÿ8“šÀ“˜/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÿæ†ÿÿÿÿÿ8Æ‹ğ“˜/
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8™é“˜/
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(„ëüĞşÿÿÿÿ8Øßúë—/
+Z
+java:S1197"8Move the array designator from the variable to the type.(¹š‡àûÿÿÿÿ8Ÿ²•“˜/

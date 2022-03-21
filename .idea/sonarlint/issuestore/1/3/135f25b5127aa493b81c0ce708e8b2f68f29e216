@@ -1,0 +1,23 @@
+
+M
+java:S1854."7Remove this useless assignment to local variable "sum".(˜°µí
+O
+java:S2274E":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+O
+java:S2274)":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM
+K
+java:S24460"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+\
+java:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+=
+java:S1604"(Make this anonymous inner class a lambda(£·®
+>
+java:S1604"(Make this anonymous inner class a lambda(ÿïŞß
+>
+java:S1481."(Remove this unused "sum" local variable.(˜°µí
+K
+java:S2446M"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+7
+java:S16597"!Declare "rem" on a separate line.(ä’Á
+\
+java:S2142*"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€

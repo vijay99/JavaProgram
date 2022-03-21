@@ -1,0 +1,12 @@
+
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÔƒÕýÿÿÿÿÿ
+S
+java:S1197"8Move the array designator from the variable to the type.(ø‚½¥úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ýÜ›Šþÿÿÿÿ
+N
+java:S1197"8Move the array designator from the variable to the type.(“éÖ”
+G
+java:S1612",Replace this lambda with a method reference.(À™é•ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤Õ±Öúÿÿÿÿ
+A
+java:S16120",Replace this lambda with a method reference.(ñÃÉ

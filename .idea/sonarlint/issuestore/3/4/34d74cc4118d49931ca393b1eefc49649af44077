@@ -1,0 +1,10 @@
+
+<
+java:S1659"Declare "m" on a separate line.(ïÝ¯8³ð•¯/
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ8€¯ü±º/
+Z
+java:S1197"8Move the array designator from the variable to the type.(’¤ß„þÿÿÿÿ8ÜÏ¯/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡×ÜŠùÿÿÿÿ8€à§¯/
+=
+java:S1659" Declare "hi" on a separate line.(ïÝ¯8³ð•¯/

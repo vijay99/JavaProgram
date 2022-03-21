@@ -1,0 +1,9 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¢Û\8¡ıöÇ—/
+Z
+java:S1197
+"8Move the array designator from the variable to the type.(õÜ«‰üÿÿÿÿ8îÓÑÇ—/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğéÇßùÿÿÿÿ8ÑüÒÇ—/
+Z
+java:S1197"8Move the array designator from the variable to the type.(ş×ÉÌúÿÿÿÿ8àÖÇ—/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Á¢§ñ8ÎªñÇ—/

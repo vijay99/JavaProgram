@@ -1,0 +1,12 @@
+
+A
+java:S1659"Declare "i" on a separate line.(Û»åüÿÿÿÿ8ÿÚã™/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œŞıË8“‡ïã™/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïƒïü8êğ’ä™/
+A
+java:S1659"Declare "j" on a separate line.(Û»åüÿÿÿÿ8ÿÚã™/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ú§˜”8İ ‘ä™/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û»åüÿÿÿÿ8ÿÚã™/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ïœûş8ìóŒä™/
+Z
+java:S1197"8Move the array designator from the variable to the type.(…¸Ï¢úÿÿÿÿ8™ãÕã™/
